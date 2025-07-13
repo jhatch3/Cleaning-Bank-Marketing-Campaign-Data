@@ -5,9 +5,9 @@ Project Goals
 - Load, inspect and clean a CSV file named bank_marketing.csv
 - Clean and reformat columns according to specific business rules
 - Split the dataset into three clean CSV files:
-- - client.csv
-- - campaign.csv
-- - conomics.csv
+  - client.csv
+  - campaign.csv
+  - conomics.csv
 
 Key Tasks
 - Replace invalid or unclear values (e.g., "unknown" → NaN, "." → "_")
