@@ -23,3 +23,7 @@ What I Learned
 - Handling missing or incorrect values
 - Creating and formatting dates from multiple columns
 - Structuring data to match a relational database format
+
+WORK CITED
+- Project done from DataCamp's Website
+- https://www.datacamp.com/datalab/w/951154df-5fc0-4b26-a389-f80434295e72/edit
